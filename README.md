@@ -1,6 +1,6 @@
 # smartmatabcapp
 
-A new Flutter project.
+SmartMat ABC is an interactive mobile application that helps young children (ages 2–4) learn the alphabet in a fun, engaging, and hands-on way. The system combines computer vision, speech processing, and handwriting recognition to turn a physical ABC mat into a smart educational tool.
 
 ## Getting Started
 
